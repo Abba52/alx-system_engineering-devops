@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amF --file-type
+mv ./[[:upper:]]* /tmp/u
